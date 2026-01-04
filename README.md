@@ -6,8 +6,13 @@
 ![Top 0.4%](https://img.shields.io/badge/Kaggle-Top%200.4%25-brightgreen)
 ![Location](https://img.shields.io/badge/Location-Bahāwalnagar%2C%20Punjab%2C%20Pakistan-informational)
 
+# 👋 Hi, I'm Qamar Usman
+
 **Machine Learning Engineer @ VFIXALL**  
 **LLMs · Transformers · RAG · Deep Learning · Computer Vision · Time Series · Medical AI**
+
+📍 Bahāwalnagar, Punjab, Pakistan  
+🕒 Joined GitHub 2 years ago · Active contributor  
 
 🔗 GitHub: https://github.com/Qamar-usman-ai  
 🔗 Kaggle: https://www.kaggle.com/qamarmath  
@@ -17,12 +22,12 @@
 ## 💫 About Me
 I am a **research-driven Machine Learning Engineer** with a strong background in **mathematics and applied ML research**, specializing in:
 
-- Large Language Models (LLMs) & Transformers
-- Retrieval-Augmented Generation (RAG)
-- Deep Learning & Computer Vision
-- Medical & Healthcare AI
-- Time Series Forecasting
-- Automated ML Systems & EDA Platforms
+- Large Language Models (LLMs) & Transformers  
+- Retrieval-Augmented Generation (RAG)  
+- Deep Learning & Computer Vision  
+- Medical & Healthcare AI  
+- Time Series Forecasting  
+- Automated ML Systems & EDA Platforms  
 
 I currently work at **VFIXALL**, where I design and deploy **end-to-end production ML pipelines**, bridging research, engineering, and real-world impact.
 
@@ -42,7 +47,7 @@ I currently work at **VFIXALL**, where I design and deploy **end-to-end producti
 - **ISIC Skin Cancer Detection**
 - **LLM Prompt Recovery**
 - **PII Detection (NER)**
-- **Jane Street Market Forecasting**
+- **Jane Street Market Prediction**
 - **Math Misconception Classification**
 - **Social Action Recognition in Mice**
 
@@ -55,17 +60,17 @@ I currently work at **VFIXALL**, where I design and deploy **end-to-end producti
 📂 https://github.com/Qamar-usman-ai/EfficientNet-B0-Achieve-0.965-AUROC-in-Skin-cancer  
 
 **Details**
-- Dataset fusion from multiple medical repositories
-- Transfer learning with EfficientNet-B0
-- Weighted BCE loss (medical class imbalance)
-- Albumentations-based augmentation
-- Stratified K-Fold validation
-- FP16 mixed-precision training on GPU
+- Dataset fusion from multiple medical repositories  
+- Transfer learning with EfficientNet-B0  
+- Weighted BCE loss for severe class imbalance  
+- Albumentations-based augmentation  
+- Stratified K-Fold validation  
+- FP16 mixed-precision GPU training  
 
 **Clinical Metrics**
-- Accuracy: 90.19%
-- Recall (Malignant): 88.54%
-- Specificity: 91.76%
+- Accuracy: 90.19%  
+- Recall (Malignant): 88.54%  
+- Specificity: 91.76%  
 
 ---
 
@@ -74,17 +79,17 @@ I currently work at **VFIXALL**, where I design and deploy **end-to-end producti
 📂 https://github.com/Qamar-usman-ai/Pneumonia-Detection-via-CNN-94-Test-Accuracy  
 
 **Details**
-- Custom 5-block CNN architecture
-- BatchNorm + Dropout regularization
-- Multi-source dataset merging
-- Real-time augmentation
-- RMSprop + ReduceLROnPlateau
-- FastAPI inference backend
+- Custom 5-block CNN architecture  
+- Batch Normalization & Dropout regularization  
+- Multi-source dataset merging  
+- Real-time data augmentation  
+- RMSprop optimizer + ReduceLROnPlateau  
+- FastAPI inference backend  
 
 **Metrics**
-- Precision: 0.96
-- Recall: 0.95
-- F1-Score: 0.94
+- Precision: 0.96  
+- Recall: 0.95  
+- F1-Score: 0.94  
 
 ---
 
@@ -92,16 +97,16 @@ I currently work at **VFIXALL**, where I design and deploy **end-to-end producti
 📂 https://github.com/Qamar-usman-ai/Early-Sepsis-Detection-Model  
 
 **Details**
-- 331,639 time points from 2,649 patients
-- Extreme class imbalance (2.07%)
-- Undersampling + XGBoost
-- Drug exposure TF-IDF features
-- Temporal feature engineering
-- Stratified Group K-Fold CV
+- 331,639 time points from 2,649 patients  
+- Extreme class imbalance (2.07%)  
+- Undersampling + XGBoost  
+- Drug exposure TF-IDF features  
+- Temporal feature engineering  
+- Stratified Group K-Fold CV  
 
 **Performance**
-- PR-AUC: 0.9675
-- F1-Score: up to 0.96
+- PR-AUC: 0.9675  
+- F1-Score: up to 0.96  
 
 ---
 
@@ -110,11 +115,11 @@ I currently work at **VFIXALL**, where I design and deploy **end-to-end producti
 🔗 https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification  
 
 **Details**
-- EEG → Spectrogram conversion
-- ResNet18d (timm)
-- KL-Divergence loss (soft labels)
-- Cosine Annealing LR
-- 5-Fold CV
+- EEG → Spectrogram conversion  
+- ResNet18d backbone (timm)  
+- KL-Divergence loss for soft labels  
+- Cosine Annealing learning rate  
+- 5-Fold cross-validation  
 
 ---
 
@@ -123,10 +128,10 @@ I currently work at **VFIXALL**, where I design and deploy **end-to-end producti
 🔗 https://www.kaggle.com/competitions/equity-post-HCT-survival-predictions  
 
 **Details**
-- XGBoost + LightGBM + CatBoost ensemble
-- Fairness-aware optimization
-- Stratified C-Index across races
-- Bias reduction in survival prediction
+- XGBoost + LightGBM + CatBoost ensemble  
+- Fairness-aware survival modeling  
+- Stratified C-Index across racial groups  
+- Bias reduction in clinical predictions  
 
 ---
 
@@ -136,11 +141,11 @@ I currently work at **VFIXALL**, where I design and deploy **end-to-end producti
 🔗 https://www.kaggle.com/competitions/the-learning-agency-lab-pii-data-detection  
 
 **Details**
-- DeBERTa-v3 ensemble (Piiranha)
-- Token-level NER
-- Softmax weighted inference
-- Optimized Micro-F5 score
-- High-recall privacy-first system
+- DeBERTa-v3 ensemble (Piiranha)  
+- Token-level Named Entity Recognition  
+- Softmax weighted inference  
+- Optimized Micro-F5 score  
+- High-recall, privacy-first design  
 
 ---
 
@@ -148,11 +153,11 @@ I currently work at **VFIXALL**, where I design and deploy **end-to-end producti
 🔗 https://www.kaggle.com/competitions/eedi-mining-misconceptions-in-mathematics  
 
 **Details**
-- Ettin-Encoder-400M
-- MAP@3: 0.9428
-- Educational diagnostic AI
-- FP16 training
-- HuggingFace Trainer
+- Ettin-Encoder-400M  
+- MAP@3: **0.9428**  
+- Educational diagnostic AI  
+- FP16 training  
+- HuggingFace Trainer  
 
 ---
 
@@ -162,11 +167,11 @@ I currently work at **VFIXALL**, where I design and deploy **end-to-end producti
 📂 https://github.com/Qamar-usman-ai/Rohlik-Orders-Forecasting-Challenge  
 
 **Details**
-- XGBoost forecasting
-- 3.37% MAPE
-- Cyclical encoding
-- Holiday TF-IDF
-- Interactive Streamlit dashboard
+- XGBoost-based forecasting  
+- 3.37% MAPE  
+- Cyclical encoding  
+- Holiday TF-IDF features  
+- Interactive Streamlit dashboard  
 
 ---
 
@@ -174,10 +179,10 @@ I currently work at **VFIXALL**, where I design and deploy **end-to-end producti
 📂 https://github.com/Qamar-usman-ai/Automated-ml  
 
 **Features**
-- Auto preprocessing
-- Bayesian hyperparameter tuning
-- Classification & Regression
-- Model comparison & reports
+- Automated preprocessing  
+- Bayesian hyperparameter optimization  
+- Classification & Regression pipelines  
+- Model comparison & reporting  
 
 ---
 
@@ -185,10 +190,10 @@ I currently work at **VFIXALL**, where I design and deploy **end-to-end producti
 📂 https://github.com/Qamar-usman-ai/csv-chat  
 
 **Features**
-- Natural language queries
-- Google Generative AI
-- LangChain + Streamlit
-- Exportable chat history
+- Natural language querying  
+- Google Generative AI  
+- LangChain + Streamlit  
+- Exportable chat history  
 
 ---
 
@@ -201,23 +206,23 @@ Python · PyTorch · TensorFlow · Keras · Transformers · FastAPI
 LLMs · RAG · NLP · Computer Vision · Medical AI · Time Series · AutoML  
 
 **Tools**  
-Git · GitHub Actions · Docker · Streamlit · MLflow · NumPy · Pandas · Plotly  
+Git · GitHub Actions · Docker · Streamlit · MLflow  
+NumPy · Pandas · Plotly · SciPy  
 
 ---
 
 ## 📈 GitHub Stats
-
 ![Stats](https://github-readme-stats.vercel.app/api?username=Qamar-usman-ai&show_icons=true&theme=tokyonight)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Qamar-usman-ai&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📌 Pinned Repositories
-- Automated-ml
-- csv-chat
-- Pneumonia-Detection-via-CNN-94-Test-Accuracy
-- Rohlik-Orders-Forecasting-Challenge
-- EfficientNet-B0-Achieve-0.965-AUROC-in-Skin-cancer
-- Survival-Prediction-1
+- Automated-ml  
+- csv-chat  
+- Pneumonia-Detection-via-CNN-94-Test-Accuracy  
+- Rohlik-Orders-Forecasting-Challenge  
+- EfficientNet-B0-Achieve-0.965-AUROC-in-Skin-cancer  
+- Survival-Prediction-1  
 
 ⭐ If you find my work useful, consider starring the repositories.
