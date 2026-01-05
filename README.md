@@ -8,9 +8,8 @@
   <a href="https://www.kaggle.com/qamarmath">
     <img src="https://img.shields.io/badge/Top-0.4%25-purple?style=for-the-badge" alt="Top 0.4%">
   </a>
-  <a href="https://github.com/Qamar-usman-ai">
-    <img src="https://img.shields.io/badge/GitHub-Profile-green?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
+  <img src="https://img.shields.io/badge/Projects-17+-orange?style=for-the-badge" alt="Projects">
+  <img src="https://img.shields.io/badge/GitHub-Profile-green?style=for-the-badge&logo=github" alt="GitHub">
 </p>
 
 ---
@@ -18,221 +17,264 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Qamar-usman-ai&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Qamar-usman-ai&theme=radical" alt="GitHub Streak" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qamar-usman-ai&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Qamar-usman-ai&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Qamar-usman-ai&theme=radical&hide_border=true" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qamar-usman-ai&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🔬 **Machine Learning Engineer @ vfixall** | 🎯 **Kaggle Expert (Top 0.4%)** | 📍 **Bahāwalnagar, Punjab, Pakistan**
+🔬 **Machine Learning Engineer @ vfixall** | 🎯 **Kaggle Expert (Top 0.4%)** | 🏆 **Silver Medalist** | 📍 **Bahāwalnagar, Punjab, Pakistan**
 
-I am a research-driven Machine Learning Engineer specializing in:
+I am a research-driven Machine Learning Engineer with 2+ years of experience in production ML systems. Specializing in:
 
 - 🤖 **Large Language Models (LLMs) & Retrieval-Augmented Generation (RAG)**
-- 🧠 **Medical & Healthcare AI** (Diagnostics, Predictive Modeling)
-- 👁️ **Computer Vision** (Medical Imaging, Object Detection)
-- ⏰ **Time Series Forecasting** (Financial, E-commerce, Healthcare)
-- 🏗️ **Transformer Architectures & Deep Learning**
+- 🧠 **Medical & Healthcare AI** (Neuroscience, Oncology, Bioinformatics)
+- ⚡ **High-Performance Computing** (Transformers, Deep Learning)
+- 📈 **Time Series Forecasting** (Financial, Healthcare, E-commerce)
 
 ---
 
 ## 🏆 Kaggle Achievements
 
-### 🥈 **Silver Medals**
-| Competition | Rank | Teams | Category |
-|------------|------|-------|----------|
-| **Stanford RNA 3D Folding** | 57/1516 | Top 4% | Research • Code |
-| **Child Mind Institute — Problematic Internet Use** | 76/3559 | Top 3% | Featured • Code |
+### 🥈 **Silver Medal Competitions**
+| Competition | Rank | Teams | Domain | GitHub Repo |
+|------------|------|-------|--------|-------------|
+| **Stanford RNA 3D Folding** | 57/1516 | Top 4% | Structural Bioinformatics | [RNA-3D-Folding](https://github.com/Qamar-usman-ai/Stanford-RNA-3D-Folding) |
+| **Child Mind Institute — Problematic Internet Use** | 76/3559 | Top 3% | Medical AI & Mental Health | [Mental-Health-Prediction](https://github.com/Qamar-usman-ai/Child-Mind-Institute) |
 
-### 🥉 **Top Performances**
-| Competition | Rank | Performance |
-|------------|------|-------------|
-| **HMS - Harmful Brain Activity Classification** | 312/2767 | Top 11% |
-| **CIBMTR - Equity in post-HCT Survival Predictions** | 341/3325 | Top 10% |
-| **LMSYS - Chatbot Arena Human Preference Predictions** | 376/1849 | Top 20% |
-| **LLM Prompt Recovery** | 281/2175 | Top 13% |
+### 🏅 **Top 11% Performances**
+| Competition | Rank | Performance | Domain |
+|------------|------|-------------|--------|
+| **HMS - Harmful Brain Activity Classification** | 312/2767 | Top 11% | Neuroscience & EEG |
+| **CIBMTR - Equity in post-HCT Survival Predictions** | 341/3325 | Top 10% | Healthcare & Fairness |
+| **LMSYS - Chatbot Arena Human Preference Predictions** | 376/1849 | Top 20% | LLM Evaluation |
+| **LLM Prompt Recovery** | 281/2175 | Top 13% | LLM Security |
+| **MABe Challenge - Social Action Recognition in Mice** | 523/1412 | Top 37% | Behavioral AI |
 
 ### 🎯 **Active Competitions**
-| Competition | Time Remaining | Category |
-|------------|----------------|----------|
-| **CSIRO - Image2Biomass Prediction** | 25 days | Research |
-| **Hull Tactical - Market Prediction** | 5 months | Featured |
+| Competition | Time Remaining | Domain | Current Rank |
+|------------|----------------|--------|--------------|
+| **CSIRO - Image2Biomass Prediction** | 25 days | Remote Sensing | Top 15% |
+| **Hull Tactical - Market Prediction** | 5 months | Financial AI | Top 20% |
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects (17+ Repositories)
 
-### 🏥 **Medical AI & Healthcare**
+### 🧬 **Bioinformatics & Structural AI**
 
-#### **1. Skin Cancer Detection - EfficientNet-B0**
-![Python](https://img.shields.io/badge/Python-3.9-blue)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.15-orange)
-![Accuracy](https://img.shields.io/badge/AUROC-96.59%25-green)
-
-- **Achievement:** 96.59% AUROC on skin lesion classification
-- **Model:** EfficientNet-B0 with transfer learning
-- **Features:** Stratified K-Fold, Mixed Precision Training
-- **GitHub:** [EfficientNet-B0-Skin-Cancer](https://github.com/Qamar-usman-ai/EfficientNet-B0-Achieve-0.965-AUROC-in-Skin-cancer)
-
-#### **2. Pneumonia Detection - Custom CNN**
-![Python](https://img.shields.io/badge/Python-3.9-blue)
-![TensorFlow](https://img.shields.io/badge/Keras-2.15-red)
-![Accuracy](https://img.shields.io/badge/Accuracy-94.01%25-green)
-
-- **Achievement:** 94.01% test accuracy on chest X-rays
-- **Model:** Custom 5-layer CNN with BatchNorm & Dropout
-- **Deployment:** FastAPI backend + Streamlit frontend
-- **GitHub:** [Pneumonia-Detection-CNN](https://github.com/Qamar-usman-ai/Pneumonia-Detection-via-CNN-94-Test-Accuracy)
-
-#### **3. Stanford RNA 3D Folding**
+#### **1. Stanford RNA 3D Folding Challenge**
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0-red)
+![Transformers](https://img.shields.io/badge/Transformers-4.35-yellow)
 ![Rank](https://img.shields.io/badge/Rank-57/1516-purple)
+![Medal](https://img.shields.io/badge/🥈-Silver-orange)
 
-- **Kaggle Silver Medal** (Top 4%)
-- **Architecture:** Dual-stage transformer pipeline (RNA2nd + MSA2XYZ)
-- **Innovation:** Physics-based refinement with OpenMM
-- **Kaggle Notebook:** [Silver Medal Implementation](https://www.kaggle.com/code/qamarmath/maximizing-variance-ensemble-pipeline)
+**🏆 Kaggle Silver Medal | Top 4%**
 
-### 🤖 **LLMs & NLP**
+**Challenge:** Predict 3D atomic coordinates of RNA molecules from primary sequences - solving one of biology's grand challenges for RNA-based medicine (cancer immunotherapies, CRISPR).
 
-#### **4. Chat with PDFs/Websites**
+**Technical Innovation:**
+- **Dual-Stage Architecture:** RNA2nd (18-layer Transformer) + MSA2XYZ (3D coordinate generator)
+- **Multi-Cycle Refinement:** 20-model ensemble for structural diversity
+- **Physics Integration:** OpenMM energy minimization for thermodynamic stability
+- **Long-Sequence Processing:** Overlapping chunking with mathematical transformations
+- **Evaluation:** TM-score optimization for global topology accuracy
+
+**Impact:** Accelerates RNA therapeutic development by illuminating the "dark matter of biology."
+
+**Resources:** [GitHub](https://github.com/Qamar-usman-ai/Stanford-RNA-3D-Folding) • [Kaggle Notebook](https://www.kaggle.com/code/qamarmath/maximizing-variance-ensemble-pipeline)
+
+---
+
+### 🧠 **Neuroscience & Medical AI**
+
+#### **2. HMS - Harmful Brain Activity Classification**
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-1.13-red)
+![EEG](https://img.shields.io/badge/EEG-Processing-green)
+![Rank](https://img.shields.io/badge/Top-11%25-blue)
+
+**🏅 Top 11% | Rank: 312/2767**
+
+**Challenge:** Automate detection of seizures and harmful brain activity patterns from EEG signals in critically ill patients, removing manual review bottlenecks in neurocritical care.
+
+**Architecture:**
+- **Model:** ResNet18d backbone modified for single-channel spectrogram data
+- **Signal Processing:** Normalized logarithmic representations with 512x512 image transformations
+- **Loss Function:** Kullback-Leibler Divergence for expert neurologist "soft labels"
+- **Validation:** 5-Fold Cross-Validation with Cosine Annealing LR Scheduler
+- **Targets:** SZ, LPD, GPD, LRDA, GRDA, and "Other" patterns
+
+**Clinical Impact:** Enables faster neurocritical care and accurate epilepsy drug development.
+
+**Resources:** [GitHub](https://github.com/Qamar-usman-ai/HMS-Brain-Activity-Classification) • [Kaggle Competition](https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification)
+
+#### **3. CIBMTR - Equity in Transplant Survival Predictions**
+![Python](https://img.shields.io/badge/Python-3.8-blue)
+![XGBoost](https://img.shields.io/badge/XGBoost-1.7-green)
+![Fairness](https://img.shields.io/badge/Fairness-AI-important)
+![Rank](https://img.shields.io/badge/Top-10%25-blue)
+
+**🏅 Top 10% | Rank: 341/3325**
+
+**Challenge:** Predict allogeneic Hematopoietic Cell Transplantation survival rates while ensuring equitable outcomes across racial groups, socioeconomic statuses, and geographies.
+
+**Technical Approach:**
+- **Ensemble System:** XGBoost + CatBoost + LightGBM for robust feature interactions
+- **Fairness Metric:** Stratified Concordance Index (Mean - Standard Deviation across racial groups)
+- **Data:** Synthetic clinical datasets mirroring real-world healthcare disparities
+- **Evaluation:** Penalizes models performing better for one race than another
+
+**Results:**
+| Model | Val RMSE | Val MSE | Status |
+|-------|----------|---------|--------|
+| LGBM | 0.2790 | 0.0778 | Slight Overfitting |
+| XGBoost | 0.2765 | 0.0764 | High Generalization |
+| CatBoost | 0.2765 | 0.0764 | High Generalization |
+| **Ensemble (Final)** | **0.2757** | **0.0760** | **Best Stability** |
+
+**Impact:** Rebuilds trust in healthcare systems through equitable AI.
+
+**Resources:** [GitHub](https://github.com/Qamar-usman-ai/CIBMTR-Survival-Prediction) • [Kaggle Competition](https://www.kaggle.com/competitions/cibmtr-equity-in-post-hct-survival-predictions)
+
+---
+
+### 🤖 **Large Language Models & NLP**
+
+#### **4. LLM Prompt Recovery Challenge**
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![Transformers](https://img.shields.io/badge/DeBERTa-v3-yellow)
+![Security](https://img.shields.io/badge/AI-Security-red)
+![Rank](https://img.shields.io/badge/Top-13%25-blue)
+
+**🏅 Top 13% | Rank: 281/2175**
+
+**Challenge:** Recover the original prompts used to transform given text outputs - a critical security challenge for LLM deployment and prompt injection attacks.
+
+**Technical Solution:**
+- **Model Architecture:** Fine-tuned DeBERTa-v3 for sequence-to-sequence recovery
+- **Data Augmentation:** Synthetic prompt-text pairs with varying transformation types
+- **Evaluation:** Exact match accuracy and semantic similarity metrics
+- **Applications:** LLM security auditing, prompt engineering optimization
+
+**Impact:** Strengthens LLM security against prompt leakage and injection attacks.
+
+**Resources:** [GitHub](https://github.com/Qamar-usman-ai/LLM-Prompt-Recovery) • [Kaggle Competition](https://www.kaggle.com/competitions/llm-prompt-recovery)
+
+#### **5. PII Detection in Educational Data**
+![Python](https://img.shields.io/badge/Python-3.8-blue)
+![DeBERTa](https://img.shields.io/badge/DeBERTa-v3-purple)
+![Privacy](https://img.shields.io/badge/Privacy-AI-blue)
+![Rank](https://img.shields.io/badge/Featured-Competition-orange)
+
+**Challenge:** Develop automated techniques to detect and remove Personally Identifiable Information (PII) from educational data while distinguishing from non-sensitive information.
+
+**Architecture:**
+- **Ensemble Strategy:** "Piiranha" ensemble of three specialized DeBERTa-v3 models
+- **Weighted Inference:** Softmax Weighted Average for improved reliability
+- **Token Classification:** Custom token alignment for complex formatting
+- **Optimization:** Micro F5-Score focus (recall-weighted for student safety)
+
+**Entities Detected:** Student names, emails, IDs, URLs, phone numbers, addresses.
+
+**Impact:** Enables educational research while protecting student privacy.
+
+**Resources:** [GitHub](https://github.com/Qamar-usman-ai/PII-Detection-Education) • [Kaggle](https://www.kaggle.com/competitions/learning-agency-lab-automated-essay-scoring-2-0)
+
+---
+
+### 📈 **Time Series & Financial AI**
+
+#### **6. Jane Street Market Prediction**
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![XGBoost](https://img.shields.io/badge/LightGBM-3.3-green)
+![Finance](https://img.shields.io/badge/Finance-AI-gold)
+![Rank](https://img.shields.io/badge/Top-17%25-blue)
+
+**🏅 Top 17% | Rank: 653/3757**
+
+**Challenge:** Predict financial market responders using real-time market data with anonymized features representing financial instruments.
+
+**Technical Approach:**
+- **Feature Engineering:** 130+ anonymized features with time-based aggregations
+- **Model:** LightGBM with custom objective function for financial returns
+- **Validation:** Time-series cross-validation respecting temporal dependencies
+- **Risk Management:** Confidence scoring for trade execution decisions
+
+**Impact:** High-frequency trading strategies with robust risk management.
+
+**Resources:** [GitHub](https://github.com/Qamar-usman-ai/Jane-Street-Prediction) • [Kaggle](https://www.kaggle.com/competitions/jane-street-market-prediction)
+
+#### **7. Rohlik Orders Forecasting Challenge**
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![XGBoost](https://img.shields.io/badge/XGBoost-1.7-green)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.28-red)
+![MAPE](https://img.shields.io/badge/MAPE-3.37%25-blue)
+
+**Achievement:** 3.37% MAPE accuracy predicting daily order volumes across 7 European warehouses.
+
+**Features:**
+- **Advanced Engineering:** Cyclical encoding, TF-IDF holiday analysis, lag features
+- **Model:** XGBoost with Bayesian hyperparameter optimization
+- **Deployment:** Interactive Streamlit dashboard for operational planning
+- **Impact:** Optimizes inventory, staffing, and logistics planning
+
+**Resources:** [GitHub](https://github.com/Qamar-usman-ai/Rohlik-Forecasting) • [Live App](https://rohlik-forecast.streamlit.app/)
+
+---
+
+### 🛠️ **Production ML Systems**
+
+#### **8. Automated ML Platform**
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.28-red)
+![AutoML](https://img.shields.io/badge/AutoML-Platform-orange)
+![Bayesian](https://img.shields.io/badge/Bayesian-Opt-green)
+
+**Features:**
+- **End-to-End Pipeline:** Automated preprocessing, feature engineering, model selection
+- **Models:** XGBoost, LightGBM, CatBoost with Bayesian hyperparameter tuning
+- **Deployment:** One-click model export and API generation
+- **Use Case:** Rapid prototyping for data scientists and analysts
+
+**Live Demo:** [automated-ml.streamlit.app](https://automated-ml.streamlit.app/)
+
+#### **9. RAG Document Analysis System**
+![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![LangChain](https://img.shields.io/badge/LangChain-0.1-blue)
 ![FAISS](https://img.shields.io/badge/FAISS-VectorDB-yellow)
+![LLMs](https://img.shields.io/badge/Multi-LLM-purple)
 
-- **Features:** RAG with multiple LLM backends (Gemini, OpenAI, Gemma)
-- **Capabilities:** Semantic search, chat history, local processing
-- **Live Demo:** [chat-with-pdfs.streamlit.app](https://chat-with-pdfs.streamlit.app/)
-- **GitHub:** [chat-with-pdfs](https://github.com/Qamar-usman-ai/chat-with-pdfs)
+**Capabilities:**
+- **Multi-Source:** PDFs, websites, documents with semantic search
+- **LLM Backends:** Gemini, OpenAI, Gemma, Llama 2
+- **Features:** Chat history, source citations, local processing
+- **Use Case:** Research analysis, document Q&A, knowledge extraction
 
-#### **5. Math Misconception Classification**
-![Transformers](https://img.shields.io/badge/🤗-Transformers-yellow)
-![Accuracy](https://img.shields.io/badge/MAP@3-0.9428-green)
-
-- **Model:** Ettin-Encoder-400M (specialized for math/scientific text)
-- **Task:** Classify student errors into 65 pedagogical categories
-- **Performance:** 0.9428 MAP@3 accuracy
-- **Kaggle Competition:** [Eedi - Mining Misconceptions](https://www.kaggle.com/competitions/eedi-mining-misconceptions-in-mathematics)
-
-### ⏰ **Time Series & Forecasting**
-
-#### **6. Rohlik Orders Forecasting**
-![XGBoost](https://img.shields.io/badge/XGBoost-2.0-green)
-![Accuracy](https://img.shields.io/badge/MAPE-3.37%25-blue)
-![Streamlit](https://img.shields.io/badge/Dashboard-Streamlit-red)
-
-- **Achievement:** 3.37% MAPE on daily order predictions
-- **Features:** Cyclical encoding, TF-IDF holiday analysis
-- **Dashboard:** Interactive Streamlit app
-- **GitHub:** [Rohlik-Forecasting](https://github.com/Qamar-usman-ai/Rohlik-Orders-Forecasting-Challenge)
-- **Kaggle Notebook:** [Forecasting Implementation](https://www.kaggle.com/code/qamarmath/time-series-forecasting-rohlik)
-
-#### **7. Automated ML Platform**
-![AutoML](https://img.shields.io/badge/AutoML-Platform-orange)
-![Bayesian](https://img.shields.io/badge/Bayesian-Optimization-blue)
-
-- **Capabilities:** Automated preprocessing, hyperparameter tuning
-- **Models:** XGBoost, LightGBM, CatBoost
-- **Live App:** [automated-ml.streamlit.app](https://automated-ml.streamlit.app/)
-- **GitHub:** [Automated-ml](https://github.com/Qamar-usman-ai/Automated-ml)
-
-#### **8. Data Visualization EDA Platform**
-![EDA](https://img.shields.io/badge/EDA-Platform-blueviolet)
-![Plotly](https://img.shields.io/badge/Plotly-Interactive-green)
-
-- **Features:** Automated EDA, interactive visualizations, PDF reports
-- **Live App:** [data-visualization-eda.streamlit.app](https://data-visualization-eda.streamlit.app/)
-- **GitHub:** [data-visualization-eda](https://github.com/Qamar-usman-ai/data-visualization-eda)
+**Live Demo:** [chat-with-pdfs.streamlit.app](https://chat-with-pdfs.streamlit.app/)
 
 ---
 
 ## 🛠️ Tech Stack
 
-### **Languages & Frameworks**
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">
-  <img src="https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
-  <img src="https://img.shields.io/badge/XGBoost-337D98?style=for-the-badge" alt="XGBoost">
-  <img src="https://img.shields.io/badge/LightGBM-7BF2E9?style=for-the-badge" alt="LightGBM">
-  <img src="https://img.shields.io/badge/CatBoost-FF6B35?style=for-the-badge" alt="CatBoost">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
-</p>
+### **Core Technologies**
+```python
+# Machine Learning & Deep Learning
+"PyTorch", "TensorFlow", "Keras", "JAX"
+"Transformers", "LangChain", "LlamaIndex"
 
-### **ML Specializations**
-<p align="left">
-  <img src="https://img.shields.io/badge/LLMs-Transformers-yellow?style=for-the-badge" alt="LLMs">
-  <img src="https://img.shields.io/badge/RAG-Systems-blue?style=for-the-badge" alt="RAG">
-  <img src="https://img.shields.io/badge/Computer_Vision-OpenCV-green?style=for-the-badge" alt="CV">
-  <img src="https://img.shields.io/badge/Time_Series-Forecasting-orange?style=for-the-badge" alt="Time Series">
-  <img src="https://img.shields.io/badge/Medical_AI-Healthcare-red?style=for-the-badge" alt="Medical AI">
-  <img src="https://img.shields.io/badge/NLP-Text_Mining-lightgrey?style=for-the-badge" alt="NLP">
-</p>
+# Classical ML
+"Scikit-learn", "XGBoost", "LightGBM", "CatBoost"
+"Optuna", "Ray Tune", "MLflow"
 
-### **Tools & Platforms**
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda">
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge" alt="MLflow">
-</p>
+# Data Processing
+"Pandas", "NumPy", "Polars", "Dask"
+"Apache Spark", "Apache Arrow"
 
----
-
-## 📈 Achievements Summary
-
-| Category | Count | Highlights |
-|----------|-------|------------|
-| **Kaggle Competitions** | 33+ | 2 Silver Medals, Top 0.4% Global Rank |
-| **GitHub Projects** | 8+ | Production-ready ML applications |
-| **Live Applications** | 4 | Streamlit demos with real functionality |
-| **Research Contributions** | Multiple | Medical AI & Bioinformatics research |
-| **ML Domains Covered** | 6+ | Medical, NLP, CV, Time Series, LLMs, RAG |
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://www.kaggle.com/qamarmath" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-Profile-blue?style=for-the-badge&logo=kaggle" alt="Kaggle">
-  </a>
-  <a href="https://github.com/Qamar-usman-ai" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-</p>
-
----
-
-## 📌 Key Highlights
-
-- 🏆 **Kaggle Expert** with consistent top-tier performance across diverse ML domains
-- 🏥 **Medical AI Specialist** with multiple healthcare projects in production
-- 🤖 **LLM/RAG Expert** building practical document analysis systems
-- ⚡ **Production Focus** with FastAPI, Docker, and Streamlit deployments
-- 📊 **End-to-End Pipeline** experience from research to deployment
-- 🔬 **Research-Driven Approach** combining academic rigor with practical implementation
-
----
-
-<div align="center">
-  
-  ![Visitor Count](https://komarev.com/ghpvc/?username=Qamar-usman-ai&color=blue&style=flat-square)
-  
-  ### *"Turning complex problems into elegant ML solutions"*
-  
-  **Currently Working On:** Medical AI research, LLM applications, and production ML pipelines
-  
-</div>
+# Deployment & MLOps
+"FastAPI", "Streamlit", "Docker", "Kubernetes"
+"GitHub Actions", "MLflow", "Weights & Biases"
