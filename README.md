@@ -29,12 +29,7 @@ I am a Machine Learning Engineer specializing in **Agentic AI systems**, **Medic
 *   **Automated ML Training Pipeline:** Engineered end-to-end automation for preprocessing, intelligent feature selection, and hyperparameter tuning
 
 ---
-# Hi there, I'm Qamar Usman 👋
-**Machine Learning Engineer | Competitions Expert**
 
-I build AI systems that solve real-world problems, from medical diagnostics to financial forecasting. As a **Competitions Expert** (Top 0.4% on Kaggle), I specialize in turning complex data into actionable insights using Agentic AI and Deep Learning.[cite: 1]
-
----
 
 ## 🏆 Top Competition Projects
 
