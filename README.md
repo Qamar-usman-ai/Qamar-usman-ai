@@ -76,63 +76,7 @@ I am a Machine Learning Engineer specializing in **Agentic AI systems**, **Medic
 *   **Metrics achieved:** **0.9532 F5 Score | Top 10% Global Finish**[cite: 1]
 
 ---
-# Hi there, I'm Qamar Usman 👋
-**Machine Learning Engineer | Competitions Expert**
 
-I am a Machine Learning Engineer specializing in **Agentic AI systems**, **Medical AI**, and **LLM pipelines**.[cite: 1] As a **Competitions Expert**, I have achieved a Top 0.4% global ranking among 203,000+ participants.[cite: 1] I focus on building scalable, production-grade AI solutions that drive real business impact.[cite: 1]
-
----
-
-## 💼 Professional Experience
-**Machine Learning Engineer @ VFIXALL** (January 2023 – Present)[cite: 1]
-*   **Agentic AI Data Analysis Pipeline:** I built an autonomous system that handles data cleaning and professional report writing with zero human help.[cite: 1]
-*   **Efficiency Impact:** This system reduced the time it takes to create reports by about 80%.[cite: 1]
-*   **Automated ML Training:** I created a pipeline that picks the best features and tunes models automatically.[cite: 1]
-*   **Deployment Velocity:** This cut down the time to get a model ready for use from weeks to just a few hours.[cite: 1]
-
----
-
-## 🚀 Featured Projects
-
-### <font color="#2E86C1">1. Stanford RNA 3D Folding</font>
-**Rank: 57th / 1,516 | Silver Medal (Top 4%)**[cite: 1]
-
-*   **The Problem:** RNA molecules are like long chains that must fold into perfect 3D shapes to work in our bodies; predicting these shapes is a massive biological puzzle.[cite: 1]
-*   **The Solution:** I used "Transformers" (the tech behind ChatGPT) to read RNA sequences and turn them into 3D coordinates.[cite: 1]
-*   **The Impact:** My model helps scientists see how these molecules fold, which is a huge step for creating new medicines.[cite: 1]
-*   **Metrics achieved:** **Top 4% Global Finish | 18-Layer Transformer Architecture**[cite: 1]
-
----
-
-### <font color="#28B463">2. Child Mind Institute: Internet Usage Predictor</font>
-**Rank: 76th / 3,559 | Silver Medal (Top 3%)**[cite: 1]
-
-*   **The Problem:** It is hard to know if a child is spending too much time online without expensive doctor visits.[cite: 1]
-*   **The Solution:** I used physical fitness data (like how a child moves) as a "clue" to predict internet habits using a LightGBM model and a math trick called the **Nelder-Mead algorithm**.[cite: 1]
-*   **The Impact:** This helps families and doctors spot digital addiction early so they can encourage healthier habits.[cite: 1]
-*   **Metrics achieved:** **0.463 Final QWK Score | Top 3% Global Finish**[cite: 1]
-
----
-
-### <font color="#D35400">3. SME Financial Health Tracker</font>
-**Rank: 28th / 950 | Top 3% (Zindi)**[cite: 1]
-
-*   **The Problem:** Many small businesses in Africa can't get loans because they don't have standard bank records to prove they are doing well.[cite: 1]
-*   **The Solution:** I built a system using **Word2Vec embeddings** to analyze 39 different business markers and give companies a "health score."[cite: 1]
-*   **The Impact:** This score helps banks find stable businesses to support, helping the local economy grow.[cite: 1]
-*   **Metrics achieved:** **88.88% Accuracy | 0.8858 Weighted F1-Score**[cite: 1]
-
----
-
-### <font color="#8E44AD">4. 🔍 PII Detection & Privacy Guard</font>
-**Kaggle Competition Solution | Rank: Top 10%**[cite: 1]
-
-*   **The Problem:** Student essays often contain private names or emails that must be hidden before researchers can study the data.[cite: 1]
-*   **The Solution:** I trained an ensemble of **DeBERTa** models to act like a smart "blackout pen," automatically finding and labeling 13 types of private info.[cite: 1]
-*   **The Impact:** This protects student privacy perfectly while allowing educators to use the data for research.[cite: 1]
-*   **Metrics achieved:** **0.9532 F5 Score (High Recall) | Ensemble of 4 DeBERTa Models**[cite: 1]
-
----
 
 ### <font color="#2E86C1">5. 🏥 Predicting Survival After Donor Transplants (HCT)</font>
 **[View Repository](https://github.com/Qamar-usman-ai/Survival-Prediction-1)**[cite: 1]
